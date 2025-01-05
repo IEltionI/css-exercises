@@ -1,0 +1,8 @@
+button {
+font-size: 25px;
+}
+
+#black-button {
+    background-color: black;
+    color: rgb(900, 900, 900)
+}
